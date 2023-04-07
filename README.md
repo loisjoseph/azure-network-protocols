@@ -8,7 +8,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Network Security Groups and Inspecting Network Protocols](https://www.youtube.com/watch?v=jrQYQaARgRE)
 
 <h2>Environments and Technologies Used</h2>
 
